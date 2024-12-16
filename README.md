@@ -2,7 +2,7 @@
 Il problema di seguito presentato è la mia proposta per il progetto in Z3 in alternativa all’esame orale del corso di computabilità, complessità e logica insegnato dal prof. Peron Adriano.
 
 
-Vogliamo determinare se la sopravvivenza di un animale su n giorni in uno spazio predeterminato con le seguenti assunzioni:
+Vogliamo determinare se la sopravvivenza di un animale su “n” giorni in uno spazio predeterminato con “e” energia iniziale e con le seguenti assunzioni: 
 
 -L’animale comincia il primo giorno con una quantità di energia “e”
 
