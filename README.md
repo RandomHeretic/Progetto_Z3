@@ -4,8 +4,9 @@ Il problema di seguito presentato è la mia proposta per il progetto in Z3 in al
 
 Vogliamo determinare se la sopravvivenza di un animale su n giorni in uno spazio predeterminato con le seguenti assunzioni:
 
-  -L’animale comincia il primo giorno con una quantità di energia “e” predeterminata dal problema
-  -Lo spazio dove l’animale si può muovere è rappresentato con un grafo pesato con un numero naturale “k” assegnato a ciascun nodo. Ogni nodo rappresenta un luogo di interesse per l’animale che contiene una quantità “k” di cibo, il peso degli archi è la quantità di energia necessaria per attraversarlo. Per costruzione richiediamo che almeno un nodo abbia “k=0”
+-L’animale comincia il primo giorno con una quantità di energia “e” predeterminata dal problema
+
+-Lo spazio dove l’animale si può muovere è rappresentato con un grafo pesato con un numero naturale “k” assegnato a ciascun nodo. Ogni nodo rappresenta un luogo di interesse per l’animale che contiene una quantità “k” di cibo, il peso degli archi è la quantità di energia necessaria per attraversarlo. Per costruzione richiediamo che almeno un nodo abbia “k=0”
 
 -L’unico modo di passare da un nodo ad un’altro è attraverso gli archi dati
 
